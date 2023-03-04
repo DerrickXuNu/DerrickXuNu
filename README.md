@@ -2,7 +2,7 @@
 
 I am a Ph.D. student at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) in [UCLA](https://www.ucla.edu/).
 Before joining UCLA, I was a senior deep learning engineer at [Mercedes-Benz R&D North America(MBRDNA)](https://mbrdna.com/) and 
-a computer vision engineer at [OPPO R&D US](https://www.oppo.com/en/).
+a computer vision engineer at [OPPO R&D US](https://www.oppo.com/en/). I have several publications in CVPR/ECCV/WACV/CoRL/ICRA/IROS/TIV/Transportation PartC as first author in the past 2 years.
 
 
 🔭 **Reseach-wise, I mainly focus on**:
