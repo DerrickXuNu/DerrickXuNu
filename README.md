@@ -1,14 +1,14 @@
 ### Hi there, I'm [Runsheng Xu(徐润生 in Chinese)!](https://derrickxunu.github.io/) 👋
 
-I am a Ph.D. student at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) in [UCLA](https://www.ucla.edu/).
-Before joining UCLA, I was a senior deep learning engineer at [Mercedes-Benz R&D North America(MBRDNA)](https://mbrdna.com/) and 
-a computer vision engineer at [OPPO R&D US](https://www.oppo.com/en/). I have several publications in CVPR/ECCV/WACV/CoRL/ICRA/IROS/TIV/Transportation PartC as first author in the past 2 years.
-
+I am a Research Scientist at [Waymo](https://waymo.com), working on the most exciting research projects in Autonomous Driving. I gained my PhD degree from UCLA in 2.5 years, with publications in CVPR/ECCV/ICCV/TPAMI/CoRL/ICRA.
+I was also a senior deep learning engineer at [Mercedes-Benz R&D North America(MBRDNA)](https://mbrdna.com/) and 
+a computer vision engineer at [OPPO R&D US](https://www.oppo.com/en/) from 2018-2020.
 
 🔭 **Reseach-wise, I mainly focus on**:
 
 - **Autonomous Driving** topics related to **Perception**, **Simulation**, and **Cooperative Driving Automation**
-- **Computer Vision** topics related to **Vision Tranformer** and **Image Enhancement**
+- **Generative AI** topics related to **LLM**, **Diffusion**, and **World Model**.
+- **Computer Vision** topics related to **Vision Transformer**.
 
 
 😄 **I am open to**:
