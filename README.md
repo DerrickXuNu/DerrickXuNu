@@ -1,6 +1,6 @@
 ### Hi there, I'm [Runsheng Xu(徐润生 in Chinese)!](https://derrickxunu.github.io/) 👋
 
-I am a Research Scientist at [Waymo](https://waymo.com), working on the most exciting research projects in Autonomous Driving. I gained my PhD degree from UCLA in 2.5 years, with publications in CVPR/ECCV/ICCV/TPAMI/CoRL/ICRA.
+I am a Senior Research Scientist at [Waymo](https://waymo.com), working on the most exciting research projects in Autonomous Driving. I gained my PhD degree from UCLA in 2.5 years, with publications in CVPR/ECCV/ICCV/TPAMI/CoRL/ICRA.
 I was also a senior deep learning engineer at [Mercedes-Benz R&D North America(MBRDNA)](https://mbrdna.com/) and 
 a computer vision engineer at [OPPO R&D US](https://www.oppo.com/en/) from 2018-2020.
 
